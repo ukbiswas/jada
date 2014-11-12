@@ -1,4 +1,4 @@
 jada
 ====
 
-jada forked
+This is jadaSite project.
